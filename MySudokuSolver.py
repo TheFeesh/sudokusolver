@@ -10,7 +10,6 @@ board = [
     [0,0,0,1,4,0,0,0,5]
 ]
 
-#print board, solve (actually change board and output solved board), valid (check if a number is valid), find empty
 
 def print_board(bd):
     for i in range(len(bd)): #rows
